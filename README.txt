@@ -1,0 +1,1 @@
+Open index.html in your browser. Keep the certificates folder, profile and resume files together. All certificate images come from the supplied 9-page PDF; extracurricular achievements are text only. No stock images were added.
